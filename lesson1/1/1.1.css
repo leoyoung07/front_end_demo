@@ -1,0 +1,11 @@
+#outerDiv {
+    width: 500px;
+    text-align: center;
+}
+
+#targetDiv {
+    width: 100px;
+    height: 100px;
+    margin: 10px auto;
+    background-color: black;
+}

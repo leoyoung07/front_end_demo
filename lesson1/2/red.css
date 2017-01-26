@@ -1,0 +1,12 @@
+body {
+    background-color: #fdd;
+}
+
+#nav {
+    background-color: red;
+    border-color: white;
+}
+
+#nav li {
+    border-color: white;
+}

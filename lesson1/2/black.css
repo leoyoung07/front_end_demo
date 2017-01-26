@@ -1,0 +1,12 @@
+body {
+    background-color: #ccc;
+}
+
+#nav {
+    background-color: black;
+    border-color: white;
+}
+
+#nav li {
+    border-color: white;
+}
